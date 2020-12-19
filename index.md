@@ -1,9 +1,9 @@
 # <center>smiley's stuff</center>
   
 **Magyar**
-- <a href="hu-projects.md">Projektek</a>
-- <a href="hu-about.md">Rólam</a>
+- [Projektek](hu-projects.md)
+- [Rólam](hu-about.md)
 
 **English**
-- <a href="en-projects.md">Projects</a>
-- <a href="en-about.md">About Me</a>
+- [Projects](en-projects.md)
+- [About Me](en-about.md)
