@@ -1,9 +1,9 @@
 # <center>smiley's stuff</center>
   
-## <center>Magyar / English</center>
+**Magyar**
+- <a href="hu-projects.md">Projektek</a>
+- <a href="hu-about.md">Rólam</a>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+**English**
+- <a href="en-projects.md">Projects</a>
+- <a href="en-about.md">About Me</a>
