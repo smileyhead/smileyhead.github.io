@@ -1,6 +1,6 @@
 # <center>Válassz nyelvet! / Select a Language.</center>
   
-<table border="0" width=100% style="border-spacing: 25px">
+<table border="0" width=100%>
  <tr>
     <td style="text-align:right;"><b>
 	
