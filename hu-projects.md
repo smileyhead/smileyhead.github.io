@@ -1,3 +1,3 @@
-# <center>smiley's stuff</center>
+# <center>Projektek</center>
 
 Ez a Projektek oldal.

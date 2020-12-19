@@ -1,3 +1,3 @@
-# <center>smiley's stuff</center>
+# <center>Projects</center>
 
 This is the Projects page.

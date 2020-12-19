@@ -1,9 +1,15 @@
-# <center>smiley's stuff</center>
+# <center>Válassz nyelvet! / Select a Language.</center>
   
-**Magyar**
-- [Projektek](hu-projects.md)
-- [Rólam](hu-about.md)
-
-**English**
-- [Projects](en-projects.md)
-- [About Me](en-about.md)
+<table border="0" width=100% style="border-spacing: 25px">
+ <tr>
+    <td style="text-align:right;"><b>
+	
+	[Legyen ez](hu-projects.md)
+	
+	</b></td>
+	<td><b>
+	
+	[This one](en-projects.md)
+	
+	</b></td>
+ </tr>
