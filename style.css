@@ -12,11 +12,13 @@ td {
 }
 th {
 	background-color: SeaGreen;
-	color: white;
 }
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+table {
+	width: 100%;
 }
 
 tr:hover {background-color: #00e56e;}
