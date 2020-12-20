@@ -21,12 +21,12 @@ Programok, amik csak egyszeri fordítást igényeltek, vagy már nem állnak fej
 
 |           Cím          |   Platform   |          Infó/Letöltés         |          Dátum          |
 |:--------------------------------------------------------------------------------------------|:--------------------|:-------------:|:------------|
-| [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm)                                          | Windows      |              Patch             | 2019 máj. 10            |
+| [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm)                                          | Windows      | [Patch](https://github.com/smileyhead/escapedchasm-hu) | 2019 máj. 10            |
 | [freeShop](https://gbatemp.net/threads/no-longer-working-community-freeshop-fork-open-source-eshop-alternative.483159/)                                                                                                 | Nintendo 3DS |            Hivatalos            | 2016 szept. - 2018 aug. 22 |
 | [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)                        | Nintendo 3DS | A CTGP-7 része | 2020 márc. 14            |
-| [Mario Kart 8](https://www.nintendo.co.uk/Games/Wii-U/Mario-Kart-8-765384.html) ([Deluxe](https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html))             | WiiU/Switch  |              Infó              | 2020 márc. 16            |
-| [Mario Kart Wii](https://www.nintendo.co.uk/Games/Wii/Mario-Kart-Wii-281848.html#Overview)     | Nintendo Wii |              Infó              | 2020 márc. 16            |
-| [New Super Mario Bros. U](https://www.nintendo.com/games/detail/new-super-mario-bros-u-wii-u/) | Wii U        |              Patch             | 2016 máj. 11            |
+| [Mario Kart 8](https://www.nintendo.co.uk/Games/Wii-U/Mario-Kart-8-765384.html) ([Deluxe](https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html))             | WiiU/Switch  | [Infó](http://wiki.tockdom.com/wiki/Translation_Project) | 2020 márc. 16            |
+| [Mario Kart Wii](https://www.nintendo.co.uk/Games/Wii/Mario-Kart-Wii-281848.html#Overview)     | Nintendo Wii | [Infó](http://wiki.tockdom.com/wiki/Translation_Project) | 2020 márc. 16            |
+| [New Super Mario Bros. U](https://www.nintendo.com/games/detail/new-super-mario-bros-u-wii-u/) | Wii U        | [Patch](https://github.com/smileyhead/cafe_redpro-hu) | 2016 máj. 11            |
 
 ### Ki nem adott
 Mivel ezeket a programokat egy csapat részeként fordítottam le, nem én döntök a megjelenésük időpontjáról.
@@ -35,4 +35,4 @@ Mivel ezeket a programokat egy csapat részeként fordítottam le, nem én dönt
 |:-------------------------------|:-------------|:-------------------------------------------------------------:|:------------|:----------------------------------------------------------------------------|
 | Wii Series Translation Project | Nintendo Wii | (Ennek tudtommal nincs hivatalos weblapja…) | 2020 ápr. 25 | Kész fordítások: Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play |
 
-## <center><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></center>
+<center><p><b style="font-size: 18pt"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></b></p></center>
