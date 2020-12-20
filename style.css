@@ -4,6 +4,9 @@ body {
 th, td {
 	background-color: SpringGreen;
 }
-tr:hover {
-	background-color: #00E56E;
+th {
+  background-color: SeaGreen;
+  color: white;
 }
+tr:hover {background-color: #00e56e;}
+tr:nth-child(even) {background-color: PaleGreen;}
