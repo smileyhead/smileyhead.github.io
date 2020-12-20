@@ -6,7 +6,7 @@ body {
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 0px;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
@@ -27,27 +27,29 @@ table {
 
 /* unvisited link */
 a:link {
-  color: #5EFF5E;
+  color: GhostWhite;
 }
 
 /* visited link */
 a:visited {
-  color: #5EFF5E;
+  color: GhostWhite;
 }
 
 /* mouse over link */
 a:hover {
-  color: #5EFF5E;
+  color: GhostWhite;
 }
 
 /* selected link */
 a:active {
-  color: #5EFF5E;
+  color: GhostWhite;
 }
 
 .tg .tg-hleft{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
 .tg .tg-bleft{border-color:inherit;text-align:left;vertical-align:top}
+.tg-sort-header:after{content:'';float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid;
+  border-color:#FFFFFF transparent;visibility:hidden}
 
 tr:hover {background-color: #46BF46 !important;}
 tr:nth-child(even) {background-color: #3CA33F;}
