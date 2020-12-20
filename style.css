@@ -1,12 +1,15 @@
 body {
 	background-color: SpringGreen;
 }
-th, td {
+td {
 	background-color: SpringGreen;
 }
 th {
-  background-color: SeaGreen;
-  color: white;
+	background-color: SeaGreen;
+	color: white;
+}
+table {
+	width: 100%;
 }
 tr:hover {background-color: #00e56e;}
 tr:nth-child(even) {background-color: PaleGreen;}
