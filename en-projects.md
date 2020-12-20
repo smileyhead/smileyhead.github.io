@@ -35,8 +35,8 @@ Programs that either only required one-time translation or are no longer being d
 ### Unreleased
 Programs that I've translated as part of a team and the release date isn't dependant on me.
 
-|              Name              |   Platform   |                         Info/Download                         |    Since    | Notes                                                                      |
-|:-------------------------------|:-------------|:-------------------------------------------------------------:|------------:|:----------------------------------------------------------------------------|
-| Wii Series Translation Project | Nintendo Wii | (There's no official site for this project as far as I know…) | 25 Apr 2020 | Finished Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play |
+|              Name              |   Platform   |                         Info/Download                         |    Notes    |   Since                                                                      |
+|:-------------------------------|:-------------|:-------------------------------------------------------------:|:------------|----------:|
+| Wii Series Translation Project | Nintendo Wii | (There's no official site for this project as far as I know…) | Finished Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play | 25 Apr 2020 |
 
 <center><p><b style="font-size: 18pt"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></b></p></center>

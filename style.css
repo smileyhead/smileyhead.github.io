@@ -1,3 +1,9 @@
 body {
 	background-color: SpringGreen;
 }
+th, td {
+	background-color: SpringGreen;
+}
+tr:hover {
+	background-color: #00E56E;
+}

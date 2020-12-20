@@ -35,8 +35,8 @@ Programok, amik csak egyszeri fordítást igényeltek, vagy már nem állnak fej
 ### Ki nem adott
 Mivel ezeket a programokat egy csapat részeként fordítottam le, nem én döntök a megjelenésük időpontjáról.
 
-|               Cím              |   Platform   |                         Infó/Letöltés                         |    Kezdés   | Jegyzetek                                                                  |
-|:-------------------------------|:-------------|:-------------------------------------------------------------:|:------------|:----------------------------------------------------------------------------|
-| Wii Series Translation Project | Nintendo Wii | (Ennek tudtommal nincs hivatalos weblapja…) | 2020 ápr. 25 | Kész fordítások: Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play |
+|               Cím              |   Platform   |                         Infó/Letöltés                         |    Jegyzetek   | Kezdés |
+|:-------------------------------|:-------------|:-------------------------------------------------------------:|:---------------|:-------|
+| Wii Series Translation Project | Nintendo Wii | (Ennek tudtommal nincs hivatalos weblapja…) | Kész fordítások: Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play | 2020 ápr. 25 |
 
 <center><p><b style="font-size: 18pt"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></b></p></center>
