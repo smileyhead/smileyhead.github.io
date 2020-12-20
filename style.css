@@ -1,5 +1,11 @@
 body {
 	background-color: SpringGreen;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 30px;
+}
+h1, h2, h3 {
+	font-family: 'Open Sans', sans-serif;
 }
 td {
 	background-color: SpringGreen;
