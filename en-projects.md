@@ -23,7 +23,16 @@ Programs that either only required one-time translation or are no longer being d
 |:--------------------------------------------------------------------------------------------|:--------------------|:-------------:|------------:|
 | [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm)                                          | Windows      |              Patch             | 10 May 2019            |
 | [freeShop](https://gbatemp.net/threads/no-longer-working-community-freeshop-fork-open-source-eshop-alternative.483159/)                                                                                                 | Nintendo 3DS |            Official            | Sep 2016 - 22 Aug 2018 |
-| [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)                        | Nintendo 3DS | Unofficial; included in CTGP-7 | 14 Mar 2020            |
+| [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)                        | Nintendo 3DS | Included in CTGP-7             | 14 Mar 2020            |
 | [Mario Kart 8](https://www.nintendo.co.uk/Games/Wii-U/Mario-Kart-8-765384.html) ([Deluxe](https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html))             | WiiU/Switch  |              Info              | 16 Mar 2020            |
 | [Mario Kart Wii](https://www.nintendo.co.uk/Games/Wii/Mario-Kart-Wii-281848.html#Overview)     | Nintendo Wii |              Info              | 16 Mar 2020            |
 | [New Super Mario Bros. U](https://www.nintendo.com/games/detail/new-super-mario-bros-u-wii-u/) | Wii U        |              Patch             | 11 May 2016            |
+
+### Unreleased
+Programs that I've translated as part of a team and the release date isn't dependant on me.
+
+|              Name              |   Platform   |                         Info/Download                         |    Since    | Notes                                                                      |
+|:-------------------------------|:-------------|:-------------------------------------------------------------:|------------:|:----------------------------------------------------------------------------|
+| Wii Series Translation Project | Nintendo Wii | (There's no official site for this project as far as I know…) | 25 Apr 2020 | Finished Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play |
+
+## <center><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></center>

@@ -20,10 +20,19 @@ Ezek a programok még kapnak frissítéseket, ezért folyamatos munkát igényel
 Programok, amik csak egyszeri fordítást igényeltek, vagy már nem állnak fejlesztés alatt.
 
 |           Cím          |   Platform   |          Infó/Letöltés         |          Dátum          |
-|:--------------------------------------------------------------------------------------------|:--------------------|:-------------:|------------:|
-| [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm)                                          | Windows      |              Patch             | 10 May 2019            |
-| [freeShop](https://gbatemp.net/threads/no-longer-working-community-freeshop-fork-open-source-eshop-alternative.483159/)                                                                                                 | Nintendo 3DS |            Official            | Sep 2016 - 22 Aug 2018 |
-| [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)                        | Nintendo 3DS | Unofficial; included in CTGP-7 | 14 Mar 2020            |
-| [Mario Kart 8](https://www.nintendo.co.uk/Games/Wii-U/Mario-Kart-8-765384.html) ([Deluxe](https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html))             | WiiU/Switch  |              Info              | 16 Mar 2020            |
-| [Mario Kart Wii](https://www.nintendo.co.uk/Games/Wii/Mario-Kart-Wii-281848.html#Overview)     | Nintendo Wii |              Info              | 16 Mar 2020            |
-| [New Super Mario Bros. U](https://www.nintendo.com/games/detail/new-super-mario-bros-u-wii-u/) | Wii U        |              Patch             | 11 May 2016            |
+|:--------------------------------------------------------------------------------------------|:--------------------|:-------------:|:------------|
+| [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm)                                          | Windows      |              Patch             | 2019 máj. 10            |
+| [freeShop](https://gbatemp.net/threads/no-longer-working-community-freeshop-fork-open-source-eshop-alternative.483159/)                                                                                                 | Nintendo 3DS |            Hivatalos            | 2016 szept. - 2018 aug. 22 |
+| [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)                        | Nintendo 3DS | A CTGP-7 része | 2020 márc. 14            |
+| [Mario Kart 8](https://www.nintendo.co.uk/Games/Wii-U/Mario-Kart-8-765384.html) ([Deluxe](https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html))             | WiiU/Switch  |              Infó              | 2020 márc. 16            |
+| [Mario Kart Wii](https://www.nintendo.co.uk/Games/Wii/Mario-Kart-Wii-281848.html#Overview)     | Nintendo Wii |              Infó              | 2020 márc. 16            |
+| [New Super Mario Bros. U](https://www.nintendo.com/games/detail/new-super-mario-bros-u-wii-u/) | Wii U        |              Patch             | 2016 máj. 11            |
+
+### Ki nem adott
+Mivel ezeket a programokat egy csapat részeként fordítottam le, nem én döntök a megjelenésük időpontjáról.
+
+|               Cím              |   Platform   |                         Infó/Letöltés                         |    Kezdés   | Jegyzetek                                                                  |
+|:-------------------------------|:-------------|:-------------------------------------------------------------:|:------------|:----------------------------------------------------------------------------|
+| Wii Series Translation Project | Nintendo Wii | (Ennek tudtommal nincs hivatalos weblapja…) | 2020 ápr. 25 | Kész fordítások: Mii Channel, Photo Channel, Wii Sports, Wii System Menu, Wii Play |
+
+## <center><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a></center>
