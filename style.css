@@ -1,3 +1,4 @@
+/* Basic styling */
 body {
 	background-color: #2E7A31;
 	font-family: 'Roboto', sans-serif;
@@ -8,49 +9,65 @@ body {
 	padding-top: 30px;
 	padding-bottom: 0px;
 }
+
+/* Header style */
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
 	color: GhostWhite;
 	text-shadow: 0px 2px 4px black;
 	margin-top: 32px;
 }
+
+/* Table header style, column sizes */
 th {
 	background-color: #1F5422;
 	color: White;
 }
+
+/* Table border */
 table, th, td {
   border: 0px;
 }
+
+/* Fullwidth tables */
 table {
 	width: 100%;
 }
 
+/* Link colours */
 /* unvisited link */
 a:link {
   color: GhostWhite;
 }
-
 /* visited link */
 a:visited {
   color: GhostWhite;
 }
-
 /* mouse over link */
 a:hover {
   color: GhostWhite;
 }
-
 /* selected link */
 a:active {
   color: GhostWhite;
 }
 
-.tg .tg-hleft{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
+/* Tabley magicky thingies from TablesGenerator. Also, column widths. Also also, sort arrow colour. */
+/* Hinfo and hdate are very specific because that way, the text in Unreleased/WSTP/Info looks nicer. */
+.tg .tg-hname{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform;width:40%}
+.tg .tg-hplat{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform;width:18%}
+.tg .tg-hinfo{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform;width:27%}
+.tg .tg-hdate{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform;width:15%}
 .tg .tg-bleft{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-bleft-justify{border-color:inherit;text-align:justify;vertical-align:top}
 .tg-sort-header:after{content:'';float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid;
   border-color:#FFFFFF transparent;visibility:hidden}
 
+/* Table hover discolouration and zebra stripes */
 tr:hover {background-color: #46BF46 !important;}
 tr:nth-child(even) {background-color: #3CA33F;}
 tr:nth-child(odd) {background-color: #37963C;}
